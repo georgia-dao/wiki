@@ -20,6 +20,7 @@
 * [Бизнес](/business)
 * [Сервисы – такси, доставка еды, врачи и т.п.](/services)
 * [Язык, учебники](/tutorials)
+* [Страховка](/insurance)
 
 ## Другие гайды
 * https://docs.google.com/document/d/17pTWnljZxLmh7a2GyL-W71svDFUiJBTzj3yDSrEgU3Y/edit
@@ -47,9 +48,6 @@
 
 ### Заключение брака
 * https://t.me/georgiadao/6477
-
-### Международная страховка по подписке
-* https://t.me/georgiadao/1208
 
 ### Налоговый путеводитель для цифровых кочевников
 «Переезд РФ -> Грузия»
