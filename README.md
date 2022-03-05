@@ -4,18 +4,20 @@
 
 Чатик: https://t.me/georgiadao
 
-## Разделы
+## Для тех, кто выезжает или думает
 * [Как добраться, рейсы, таможня](/fly)
-* [Отношение к русским](/attitude)
-* [Вакцина](/covid)
 * [Сколько надо денег](/budget)
+* [Животные](/pets)
+* [Вакцина](/covid)
+* [Отношение к русским](/attitude)
+
+## Для тех, кто уже на месте
 * [Жильё](/flats)
 * [Сотовая связь и интернет](/mobile)
 * [Банки, валюта](/banks)
 * [Работа](/work)
 * [Бизнес](/business)
 * [Язык, учебники](/tutorials)
-* [Животные](/pets)
 
 ## Другие гайды
 * https://docs.google.com/document/d/17pTWnljZxLmh7a2GyL-W71svDFUiJBTzj3yDSrEgU3Y/edit
