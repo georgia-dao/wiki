@@ -15,6 +15,9 @@
  * [Экспаты в Грузии](https://www.facebook.com/groups/574026189726770/)
  * [Недвижимость в Тбилиси](https://www.facebook.com/search/top?q=%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%B2%20%D1%82%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8)
 
+## Telegram
+Нашел в группе, отпочковавшейся от нашего уютного, ссылку на группу, где обсуждают экстренный съем жилья, мб поможет, не смотрел сам https://t.me/+lAu0cGcJNihmMTk6
+
 ## Тбилиси
 * https://t.me/newcryptochat/63148
 * https://t.me/newcryptochat/63129
