@@ -17,5 +17,11 @@
 В грузинском все существительные кончаются на И / А, если иностранные слова, то добавляются гласные
 
 ## Учебники
+* https://t.me/georgiadao/1259
+* https://t.me/georgiadao/1260
+* https://t.me/georgiadao/1261
+* https://t.me/georgiadao/1242
+* https://t.me/georgiadao/1225
+* https://t.me/georgiadao/1182
 
-См. выше pdf.
+(добавляем ссылками, cюда загружать не надо: лимит по объёму файлов)
