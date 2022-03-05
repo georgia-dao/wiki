@@ -8,6 +8,10 @@
 
 В грузинском все существительные кончаются на И / А, если иностранные слова, то добавляются гласные
 
+## Видеоуроки
+ * https://www.youtube.com/watch?v=aSwsoRJUEPM – Георгий Ефимов
+ * https://www.youtube.com/watch?v=SAzDpxyH-XI – Онлайн школа грузинского языка AZRI
+
 ## Бумажные учебники
 * https://t.me/georgiadao/1259
 * https://t.me/georgiadao/1260
@@ -17,7 +21,3 @@
 * https://t.me/georgiadao/1182
 
 (добавляем ссылками, cюда загружать не надо: лимит по объёму файлов)
-
-## Видеоуроки
- * https://www.youtube.com/watch?v=aSwsoRJUEPM
- 
