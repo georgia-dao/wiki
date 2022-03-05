@@ -62,19 +62,6 @@
 * https://t.me/newcryptochat/63240
 * https://t.me/newcryptochat/63586
 
-#### Документы РФ
-* https://t.me/newcryptochat/63527
-* https://t.me/newcryptochat/63496
-* https://t.me/newcryptochat/62959
-* https://t.me/newcryptochat/63013
-* https://t.me/newcryptochat/63137
-* https://t.me/newcryptochat/63449
-* https://t.me/newcryptochat/63477
-* https://t.me/newcryptochat/63481
-* https://t.me/newcryptochat/63506
-* https://t.me/newcryptochat/63593
-* https://t.me/newcryptochat/64456
-
 #### ВНЖ/ПМЖ и зачем это
 * Для Шенгена нужно ВНЖ иметь (собсна, основная его плюшка. Без внж ты нигде не подашься на визу по месту жительства, рядом с домом и возможностью что-то донести / исправить, это вечная ебля с поездками в польшу и прочим
 * гражданство тоже легко. Даёт безвиз в Европу, простые визы сша на 10 лет
