@@ -43,3 +43,18 @@ Sasha Tsereteli, [5 Mar 2022, 11:16:14]:
 ## Трудности 
 может быть ошибка наблюдения. в плане спрос на жильё явно вырос. при этом те квартиры которые русским сдают их разбирают, а те которые не сдают остаются. и каждый такой оставшийся может ответить десятку русских, которые разнесут по чатам и создадут атмосферу. а то что в 10 раз сняли больше без проблем не отображается в информационном поле
 
+
+## Ещё
+* https://t.me/newcryptochat/63083
+* https://t.me/newcryptochat/63092
+* https://t.me/newcryptochat/63285
+* https://t.me/newcryptochat/63040
+* https://t.me/newcryptochat/63045
+* https://t.me/newcryptochat/63072
+* https://t.me/newcryptochat/63123
+* https://t.me/newcryptochat/63124
+* https://t.me/newcryptochat/63136
+* https://t.me/newcryptochat/63978
+* https://t.me/newcryptochat/64058
+* https://t.me/newcryptochat/64062
+
