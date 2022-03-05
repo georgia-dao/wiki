@@ -115,11 +115,6 @@
 * https://t.me/newcryptochat/63954
 * https://t.me/newcryptochat/64318
 
-#### Животные
-* https://t.me/newcryptochat/63145
-* https://t.me/newcryptochat/62955
-* https://t.me/newcryptochat/63139
-
 #### Я русский
 * https://t.me/newcryptochat/63797
 * https://t.me/newcryptochat/63177
