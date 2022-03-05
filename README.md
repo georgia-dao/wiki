@@ -1,84 +1,85 @@
-🇬🇪 Крипто сообщество в Грузии
-‼️ Политика запрещена 
-❗️ Оффтоп удаляется 
+# 🇬🇪 Крипто сообщество в Грузии
 
-💻 Как купить стейблы:
-https://t.me/newcryptoshit/645
+Грузия – это Швейцария Кавказа, центр мира, место силы, колыбель цивилизации, культурная столица, восьмое чудо света. Первые люди были грузинами.
 
-💸 Сколько надо денег:
-$500-1000 на человека в месяц
-https://www.expatistan.com/cost-of-living/comparison/moscow/tbilisi
+Группа: https://t.me/georgiadao
 
-📊 Основная таблица с информацией:
-https://t.me/georgiadao/2100
+## FAQ
 
-✈️ Как добираться и жить: 
-https://t.me/georgiadao/339
-https://t.me/georgiadao/4050 
-https://t.me/georgiadao/1789
-https://t.me/georgiadao/2303
-https://t.me/georgiadao/6339
-https://t.me/georgiadao/7578
+### Сколько надо денег
+* $500-1000 на человека в месяц
+* https://www.expatistan.com/cost-of-living/comparison/moscow/tbilisi
 
-👮‍♂️ Пересечение границы РФ:
-https://t.me/georgiadao/4480
-https://t.me/georgiadao/4576
+### Основная таблица с информацией
+* https://t.me/georgiadao/2100
 
-💉 Вакцина, ПЦР и так далее:
-https://t.me/georgiadao/3692
+### Как добираться и жить 
+* https://t.me/georgiadao/339
+* https://t.me/georgiadao/4050 
+* https://t.me/georgiadao/1789
+* https://t.me/georgiadao/2303
+* https://t.me/georgiadao/6339
+* https://t.me/georgiadao/7578
 
-🗺 Где селиться: 
-https://t.me/georgiadao/3642
+### Пересечение границы РФ
+* https://t.me/georgiadao/4480
+* https://t.me/georgiadao/4576
 
-🏆 Классные места:
-https://t.me/georgiadao/5486
+### Вакцина, ПЦР и так далее
+* https://t.me/georgiadao/3692
 
-💰Проверенный криптообменник:
-https://t.me/georgiadao/1188
+### Где селиться
+* https://t.me/georgiadao/3642
 
-💵 Валюта, обмен:
-https://t.me/georgiadao/2563
+### Классные места
+* https://t.me/georgiadao/5486
 
-🌐 Язык: 
-https://t.me/georgiadao/2712
+### Проверенный криптообменник:
+* https://t.me/georgiadao/1188
 
-🇷🇺 Отношение к русским: 
-https://t.me/georgiadao/1882
+### Валюта, обмен
+* https://t.me/georgiadao/2563
 
-🏠 Жильё: 
-https://t.me/georgiadao/3093
+### Язык 
+* https://t.me/georgiadao/2712
 
-🚌 Трансферы из РФ и Еревана:
-https://t.me/georgiadao/7929
-https://t.me/georgiadao/2051
-https://t.me/georgiadao/2718
-https://t.me/georgiadao/5916
+### Отношение к русским 
+* https://t.me/georgiadao/1882
 
-🚛 Таможня и ввоз вещей:
-https://t.me/georgiadao/3015
+### Жильё
+* https://t.me/georgiadao/3093
 
-🏦 Банки, открытие счёта:
-https://t.me/georgiadao/3094
-https://t.me/georgiadao/1688
-https://t.me/georgiadao/471
-https://t.me/georgiadao/3544
-https://t.me/georgiadao/3709
+### Трансферы из РФ и Еревана
+* https://t.me/georgiadao/7929
+* https://t.me/georgiadao/2051
+* https://t.me/georgiadao/2718
+* https://t.me/georgiadao/5916
 
-📱Сотовая связь:
-https://t.me/georgiadao/3005
+### Таможня и ввоз вещей
+* https://t.me/georgiadao/3015
 
-🐾 Животные: 
-https://t.me/georgiadao/2690
-https://t.me/georgiadao/1961
+### Банки, открытие счёта
+* https://t.me/georgiadao/3094
+* https://t.me/georgiadao/1688
+* https://t.me/georgiadao/471
+* https://t.me/georgiadao/3544
+* https://t.me/georgiadao/3709
 
-💍 Заключение брака:
-https://t.me/georgiadao/6477
+### Сотовая связь
+* https://t.me/georgiadao/3005
 
-👅 Учебники грузинского языка (PDF): 
-#учебники
+### Животные 
+* https://t.me/georgiadao/2690
+* https://t.me/georgiadao/1961
 
-🏥 Международная страховка по подписке:
-https://t.me/georgiadao/1208
+### Заключение брака
+* https://t.me/georgiadao/6477
 
-❓ Подробнее: 
-https://t.me/georgiadao/2184
+# Учебники грузинского языка (PDF): 
+учебники
+
+### Международная страховка по подписке
+* https://t.me/georgiadao/1208
+
+### Подробнее 
+* https://t.me/georgiadao/2184
