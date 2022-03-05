@@ -14,8 +14,8 @@
 * [Работа](/work)
 * [Бизнес](/business)
 * [Язык, учебники](/tutorials)
-* [Животные)(/pets)
-* 
+* [Животные](/pets)
+
 ---
 ## Неразобранное (текст из сообщений копируется сюда и причёсывается)
 
@@ -114,12 +114,6 @@
 * https://t.me/newcryptochat/63931
 * https://t.me/newcryptochat/63954
 * https://t.me/newcryptochat/64318
-
-#### Я русский
-* https://t.me/newcryptochat/63797
-* https://t.me/newcryptochat/63177
-* https://t.me/newcryptochat/63180
-* https://t.me/newcryptochat/63639
 
 #### Вино
 * https://t.me/newcryptochat/63894
