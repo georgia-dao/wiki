@@ -16,6 +16,11 @@
 * [Язык, учебники](/tutorials)
 * [Животные](/pets)
 
+## Другие гайды
+* https://docs.google.com/document/d/17pTWnljZxLmh7a2GyL-W71svDFUiJBTzj3yDSrEgU3Y/edit
+* https://docs.google.com/document/d/1jy_Zyb558tn9vfTw2FNtSwogIjOeNK6i4-SJeBWTNj0/edit#
+* https://helprussia.ge/
+
 ---
 ## Неразобранное (текст из сообщений копируется сюда и причёсывается)
 
