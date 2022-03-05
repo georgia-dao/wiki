@@ -6,7 +6,7 @@
 
 ## Разделы
 * [Язык, учебники](/tutorials)
-* [Сотовая связь](/mobile)
+* [Сотовая связь и интернет](/mobile)
 * [Жильё](/flats)
 * [Банки, валюта](/banks)
 * [Работа](/work)
@@ -154,15 +154,6 @@ https://www.vetpomosh-003.ru/passport здесь люди делали и их �
 * https://t.me/newcryptochat/63189
 * https://t.me/newcryptochat/63719
 * https://t.me/newcryptochat/63759
-
-#### Mobile/Internet
-* https://t.me/newcryptochat/63179
-* https://t.me/newcryptochat/63182
-* https://t.me/newcryptochat/63400
-* https://t.me/newcryptochat/63406
-* https://t.me/newcryptochat/63422
-* https://t.me/newcryptochat/63426
-* https://t.me/newcryptochat/63713
 
 #### Обучение
 * https://t.me/newcryptochat/63176
