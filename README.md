@@ -5,15 +5,6 @@
 **Чатик** 
  * https://t.me/georgiadao
 
-**Полезные сайты**
- * https://myhome.ge/ru
- * https://ss.ge/ru
- * https://place.ge/ru
-
-**Facebook**
- * [Экспаты в Грузии](https://www.facebook.com/groups/574026189726770/)
- * [Недвижимость в Тбилиси](https://www.facebook.com/search/top?q=%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%B2%20%D1%82%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8)
-
 ## Разделы
 * [Язык, учебники](/tutorials)
 * [Сотовая связь](/mobile)
