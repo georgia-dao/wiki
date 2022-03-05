@@ -6,8 +6,7 @@
 
 ## Содержание
 * [Язык, учебники](/tutorials)
-* 
-
+* [Сотовая связь](/mobile)
 
 ## TODO (неразобранное)
 
@@ -66,9 +65,6 @@
 * https://t.me/georgiadao/471
 * https://t.me/georgiadao/3544
 * https://t.me/georgiadao/3709
-
-### Сотовая связь
-* https://t.me/georgiadao/3005
 
 ### Животные 
 * https://t.me/georgiadao/2690
