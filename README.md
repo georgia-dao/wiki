@@ -19,14 +19,6 @@
 ---
 ## Неразобранное (текст из сообщений копируется сюда и причёсывается)
 
-### Как добираться и жить 
-* https://t.me/georgiadao/339
-* https://t.me/georgiadao/4050 
-* https://t.me/georgiadao/1789
-* https://t.me/georgiadao/2303
-* https://t.me/georgiadao/6339
-* https://t.me/georgiadao/7578
-
 ### Вакцина, ПЦР и так далее
 * https://t.me/georgiadao/3692
 
