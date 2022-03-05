@@ -10,12 +10,8 @@
 * [Жильё](/flats)
 * [Банки, валюта](/banks)
 * [Работа](/work)
-
+* [Сколько надо денег](/budget)
 ---
-
-### Сколько надо денег
-* $500-1000 на человека в месяц
-* https://www.expatistan.com/cost-of-living/comparison/moscow/tbilisi
 
 ### Как добираться и жить 
 * https://t.me/georgiadao/339
@@ -96,18 +92,6 @@ https://www.vetpomosh-003.ru/passport здесь люди делали и их �
 * https://t.me/newcryptochat/63506
 * https://t.me/newcryptochat/63593
 * https://t.me/newcryptochat/64456
-
-#### Бюджет
-* https://t.me/newcryptochat/63955
-* https://t.me/newcryptochat/63258
-* https://t.me/newcryptochat/63126
-* https://t.me/newcryptochat/63135
-* https://t.me/newcryptochat/63156
-* https://t.me/newcryptochat/63618
-* https://t.me/newcryptochat/63635
-* https://t.me/newcryptochat/63659
-* https://t.me/newcryptochat/63869
-* https://t.me/newcryptochat/63874
 
 #### Жилье
 * https://t.me/newcryptochat/63083
