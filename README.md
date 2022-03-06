@@ -23,6 +23,7 @@
 * [Язык, учебники](/tutorials)
 * [Страховка](/insurance)
 * [ВНЖ/ПМЖ и зачем это](/permits)
+* Классные места: https://rebasegeorgia.notion.site/d7f29529e08f443ebf8028fb5cb20b73
 
 ## Другие гайды
 * https://docs.google.com/document/d/17pTWnljZxLmh7a2GyL-W71svDFUiJBTzj3yDSrEgU3Y/edit
@@ -38,9 +39,6 @@
 * https://t.me/pets_ge
 * https://t.me/mytbilisi_chat
 * https://t.me/domtb
-
-### Классные места
-* https://rebasegeorgia.notion.site/d7f29529e08f443ebf8028fb5cb20b73
 
 ## Всякое, не рассованное по разделам
 
