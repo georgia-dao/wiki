@@ -15,4 +15,6 @@
 Окрытие банковских счетов нерезидентам в грузинской юрисдикции разрешено.
 
 Довольно подробно о процедуре оформления местного ИП:
-https://internationalwealth.info/best-offshore-services/ip-v-gruzii-so-schetom-v-platezhnoy-sisteme-udalenno/
+* https://internationalwealth.info/best-offshore-services/ip-v-gruzii-so-schetom-v-platezhnoy-sisteme-udalenno/
+* чат в тг: https://t.me/+L3csJ_oxdkplYTEy
+* 
