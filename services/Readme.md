@@ -1,12 +1,11 @@
 # Сервисы
-
 ## Доставка еды
 Самые популярные приложения:
- * [Wolt](https://wolt.com/en)
- * [Glovo](https://glovoapp.com/)
-        
-## Такси
+ * Wolt — https://wolt.com/en
+ * Glovo — https://glovoapp.com/
+ * BOLT FOOD
 
+## Такси
 ### Bolt
 * https://bolt.eu/
 * есть опция поездки с собакой
@@ -16,7 +15,6 @@
  * удобнее вбивать адреса, но по сервису говорят хуже. Впрочем, за вами скорее всего что так что так приедет Тойота Приус. 
 
 ## Медицина
-
 ### Medi Club Georgia
 * https://www.bia.ge/en/Company/1253
 
