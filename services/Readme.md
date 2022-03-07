@@ -52,6 +52,7 @@
 * https://www.facebook.com/mediprive.clinic/
 * https://gaguaclinic.ge
 * Стоматологическая клиника Dream Dental & Aesthetic Group 
+* Стоматология Evergreen: http://evergreendent.ge/home.htm
 
 ## Врачи, косметологи, ветеринары и проч 
 Лучше уточнять по тг-каналам, тут многое работает через сарафанное радио.
