@@ -20,6 +20,9 @@
  * сайт: https://gruzinskij.ru/obuchenie 
  * телеграмм: https://t.me/gruzinskijru 
 
+### LOKAL Tbilisi
+ * https://www.facebook.com/lokaltbilisi/
+
 ## Видеоуроки
  * https://www.youtube.com/watch?v=aSwsoRJUEPM – Георгий Ефимов
  * https://www.youtube.com/watch?v=SAzDpxyH-XI – Онлайн школа грузинского языка AZRI
